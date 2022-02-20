@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffersondossantosveiga@gmail.com)
 
 <div>
-  <a href="https://github.com/jehveiga/github-readme-stats">
+  <a href="https://github.com/jehveiga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehveiga&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehveiga&layout=compact&lang_count=16&theme=tokyonight">
   </a>
