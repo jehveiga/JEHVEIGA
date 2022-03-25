@@ -1,8 +1,8 @@
-## Oi tudo bem <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-## Eu sou o Jefferson Veiga 💻
+## Hi, how are you <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+## I'm Jefferson Veiga 💻
 
 
-## Entre em contato 📱
+## Talk to me 📱
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-veiga-4927aa163/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/jefferson.dossantosveiga)
@@ -19,7 +19,7 @@
 
 <br/>
 
-<h2>Tecnologias que eu estudo e uso diariamente
+<h2>Technology I study and use daily
   <img src="https://media0.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47802sgiy2w5q0ybug4ncwjadownwtcb7fwitn62jz&rid=giphy.gif&ct=s" width= 40px>
 </h2>
 
