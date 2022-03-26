@@ -24,7 +24,7 @@
 </h2>
 
 <div>
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img align="center" alt="Jeh-Js" height="30" width="40"             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a> 
+  <a href="https://www.w3schools.com/js/default.asp" target="blank"><img align="center" alt="Jeh-Js" height="30" width="40"             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a> 
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="Jeh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img align="center" alt="Jeh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img align="center" alt="Jeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
