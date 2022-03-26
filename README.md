@@ -1,6 +1,7 @@
 ## Hi, how are you <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 ## I'm Jefferson Veiga 💻
 
+<p>I'm a <strong>Technology Enthusiast</strong> 💻 😃 passionate about learning and working with new technologies. I love building interesting and functional products that are used to help and make someone else's life easier.</p>
 
 ## Talk to me 📱
 
