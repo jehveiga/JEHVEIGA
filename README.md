@@ -31,6 +31,7 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img align="center" alt="Jeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
   <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img align="center" alt="Jeh-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a>
   <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Jeh-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"</a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank"> <img align="center" alt="Jeh-DotNet" height="30" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"</a>
 </div>
 <br/>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
