@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/jehveiga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehveiga&show_icons=true&theme=tokyonight">
+  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/jehveiga?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehveiga&layout=compact&lang_count=16&theme=tokyonight">
   </a>
 </div>
