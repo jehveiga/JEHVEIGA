@@ -29,6 +29,20 @@
   <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img align="center" alt="Jeh-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a>
   <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Jeh-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"</a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank"> <img align="center" alt="Jeh-DotNet" height="30" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"</a>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 448 512"
+      align="center"
+      alt="Jeh-DotNet"
+      height="30"
+      width="40"
+    >
+      <a href="https://angular.io/guide/what-is-angular" target="_blank"></a>
+      <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+      <path
+        d="M185.7 268.1h76.2l-38.1-91.6-38.1 91.6zM223.8 32L16 106.4l31.8 275.7 176 97.9 176-97.9 31.8-275.7zM354 373.8h-48.6l-26.2-65.4H168.6l-26.2 65.4H93.7L223.8 81.5z"
+      />
+    </svg>
 </div>
 <br/>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
