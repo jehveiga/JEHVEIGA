@@ -22,13 +22,6 @@
 </h2>
 
 <div>
-  <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img align="center" alt="Jeh-Js" height="30" width="40"             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> 
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img align="center" alt="Jeh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img align="center" alt="Jeh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img align="center" alt="Jeh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img align="center" alt="Jeh-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Jeh-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"</a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank"> <img align="center" alt="Jeh-DotNet" height="30" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"</a>
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,angular,html,css,bootstrap,git,docker,rabbitmq,regex&perline=5)](https://skillicons.dev)
 </div>
 <br/>
