@@ -16,6 +16,12 @@
 </div>
 
 <br/>
+<div>
+  <h2>Trophy 🏆</h2>
+  <a href="#">	
+    <img  src="https://github-trophies.vercel.app/?username=jehveiga&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
+  </a>
+</div>
 
 <h2>Technology I study and use daily
   <img align="center" src="https://media0.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47802sgiy2w5q0ybug4ncwjadownwtcb7fwitn62jz&rid=giphy.gif&ct=s" height="45" width= 40px>
