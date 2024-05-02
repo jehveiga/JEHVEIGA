@@ -27,7 +27,7 @@
   <img align="center" src="https://media0.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif?cid=ecf05e47802sgiy2w5q0ybug4ncwjadownwtcb7fwitn62jz&rid=giphy.gif&ct=s" height="45" width= 40px>
 </h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,c,js,ts,angular,html,css,bootstrap,git,docker,rabbitmq,regex&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,wasm,c,js,jquery,ts,angular,npm,html,css,sass,bootstrap,git,docker,rabbitmq,postman,regex,mysql,sqlite,selenium&perline=10)](https://skillicons.dev)
 
 <br/>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
